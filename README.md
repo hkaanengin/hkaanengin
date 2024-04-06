@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:hasankengin@gmail.com" target="blank">
-<img src="img/mail.png" style="height: 3rem"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" style="height: 3rem"/>
 </a>
 
 <a href="https://stackoverflow.com/users/14741443/hotpacalypse" target="blank">
