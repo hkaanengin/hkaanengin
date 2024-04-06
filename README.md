@@ -1,5 +1,7 @@
 ### Hi! I am Hasan 👋
 
+I am a Data/Software Engineer who has been building Data Pipelines&Projects, Web Service Infrastructure, Automation tools using Python and more..
+
 <!--
 **hkaanengin/hkaanengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,4 +61,5 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redis-512.png" alt="redis"  style="height: 3rem"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="redis"  style="height: 3rem"/> </a>
 </p>
