@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" style="height: 3rem"/>
 </a>
 
-<a href="https://stackoverflow.com/users/14741443/hotpacalypse" target="blank">
+<!--  <a href="https://stackoverflow.com/users/14741443/hotpacalypse" target="blank">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-1024.png" style="height: 3rem"/>
-</a>
+</a>  -->
 
 <!--  <a href="https://www.upwork.com/freelancers/~01a2222cbfc5828c26" target="blank">
 <img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/> 
